@@ -1,4 +1,4 @@
-# automation-qualitymap
+# automation-front-qualitymap
 Projeto de Automação Front-end Playwright.
 
 ## Requisitos:
